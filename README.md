@@ -3,7 +3,7 @@
 This is a C++ implementation of the classic Snake game. The game is built using the SDL2 library for graphics and input handling. The game is controlled using the arrow keys and the game ends when the snake collides with itself or the edge of the screen. The game also features a high score system that keeps track of the highest score achieved by the player.
 
 ## How to play
-The game can be played by running the `snake_game` executable in the `build` directory. The game can be played by moving the snake using the arrow keys. The game starts with a default snake length of 3 and a default snake speed of 100 milliseconds. The game can be customized by adjusting the snake length and speed using the `l` and `s` keys respectively. The game can be resized by pressing the `f` key. The game can be paused by pressing the `p` key. The game can be quit by pressing the `q` key. The game can be restarted by pressing the `r` key. The game can be reset to its initial state by pressing the `space` key. The game can be exited by pressing the `esc` key.
+The game can be played by running the `snake_game` executable in the `build` directory. The game can be played by moving the snake using the arrow keys. The game starts with a default snake length of 3 and a default snake speed of 100 milliseconds. The game can be restarted by pressing the `r` key. The game can be reset to its initial state by pressing the `space` key. The game can be exited by pressing the `esc` key.
 
 ## Gameplay
 <img src="snake_game.gif"/>
